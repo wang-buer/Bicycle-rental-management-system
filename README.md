@@ -1,10 +1,4 @@
-# 自行车租赁管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ： **租车5**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 自行车租赁管理系统5
 
 ## 1、项目介绍
 
@@ -35,41 +29,38 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052367.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208031052367.jpg)
 
 ### 4.2 用户模块
 
-![用户-租车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052830.jpg)
+![用户-租车](https://www.codeshop.fun/Typora-Images/202208031052830.jpg)
 
-![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052869.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202208031052869.jpg)
 
-![用户-订单详情1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052377.jpg)
+![用户-订单详情1](https://www.codeshop.fun/Typora-Images/202208031052377.jpg)
 
-![用户-订单详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052072.jpg)
+![用户-订单详情](https://www.codeshop.fun/Typora-Images/202208031052072.jpg)
 
-![用户-所有订单信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052156.jpg)
+![用户-所有订单信息](https://www.codeshop.fun/Typora-Images/202208031052156.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052589.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202208031052589.jpg)
 
-![管理员-服务站管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052587.jpg)
+![管理员-服务站管理](https://www.codeshop.fun/Typora-Images/202208031052587.jpg)
 
-![管理员-服务站管理2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052954.jpg)
+![管理员-服务站管理2](https://www.codeshop.fun/Typora-Images/202208031052954.jpg)
 
-![管理员-管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052477.jpg)
+![管理员-管理员管理](https://www.codeshop.fun/Typora-Images/202208031052477.jpg)
 
-![管理员-添加管理员](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031052620.jpg)
+![管理员-添加管理员](https://www.codeshop.fun/Typora-Images/202208031052620.jpg)
 
-![管理员-自行车管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031053840.jpg)
+![管理员-自行车管理](https://www.codeshop.fun/Typora-Images/202208031053840.jpg)
 
-![管理员-添加自行车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031053616.jpg)
+![管理员-添加自行车](https://www.codeshop.fun/Typora-Images/202208031053616.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**租车5** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**租车**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
